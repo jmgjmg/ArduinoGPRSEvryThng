@@ -1,0 +1,178 @@
+Found chip PN532
+Firmware ver. 1.6
+Supports 7
+Sending AT command...
+ATE0
+Received some AT response 4
+
+OK
+
+D-A-4F-4B-D-A-0-
+
+OK
+
+Successful AT command
+Sending AT command...
+AT+CIPSHUT
+Received some AT response 6
+
+SHUT OK
+
+D-A-53-48-55-54-20-4F-4B-D-A-0-
+
+SHUT OK
+
+Successful AT command
+Sending AT command...
+AT+CIPMUX=0
+Received some AT response 1
+
+OK
+
+D-A-4F-4B-D-A-0-
+
+OK
+
+Successful AT command
+Sending AT command...
+AT+CIPMODE=0
+Received some AT response 2
+
+OK
+
+D-A-4F-4B-D-A-0-
+
+OK
+
+Successful AT command
+Sending AT command...
+AT+CGDCONT=1,"IP","internet","",0,0
+Received some AT response 4
+
+OK
+
+D-A-4F-4B-D-A-0-
+
+OK
+
+Successful AT command
+Sending AT command...
+AT+CSTT="internet","",""
+Received some AT response 4
+
+OK
+
+D-A-4F-4B-D-A-0-
+
+OK
+
+Successful AT command
+Sending AT command...
+AT+CIICR
+Received some AT response 1
+
+OK
+
+D-A-4F-4B-D-A-0-
+
+OK
+
+Successful AT command
+Sending AT command...
+AT+CIFSR
+Received some AT response 3
+
+46.222.15.194
+
+D-A-34-36-2E-32-32-32-2E-31-35-2E-31-39-34-D-A-0-
+
+46.222.15.194
+
+Successful AT command
+Sending AT command...
+AT+CIPSTART="TCP","www.evrythng.net","80"
+Received some AT response 3
+
+OK
+
+CONNECT OK
+
+D-A-4F-4B-D-A-D-A-43-4F-4E-4E-45-43-54-20-4F-4B-D-A-0-
+
+OK
+
+CONNECT OK
+
+Successful AT command
+Sending AT command...
+AT+CIPSHUT
+Received some AT response 9
+
+SHUT OK
+
+D-A-53-48-55-54-20-4F-4B-D-A-0-
+
+SHUT OK
+
+Successful AT command
+Found 0 tags
+Found 0 tags
+Found 0 tags
+Found 0 tags
+Found 0 tags
+Found 0 tags
+Found 0 tags
+Found 1 tags
+Sens Response: 0x4
+Sel Response: 0x8
+ 0xEE 0xCF 0x2C 0xACRead card #4006554796
+Converted String: 4006554796
+FlowState: 0
+Sending AT command...
+AT+CIPSTART="TCP","www.evrythng.net","80"
+Received some AT response 6
+Found 0 tags
+Found 0 tags
+Found 0 tags
+
+OK
+
+CONNECT OK
+
+D-A-4F-4B-D-A-D-A-43-4F-4E-4E-45-43-54-20-4F-4B-D-A-0-
+
+OK
+
+CONNECT OK
+
+Successful AT command
+Found 0 tags
+Sending AT command...
+AT+CIPSEND
+Received some AT response 4
+
+> 
+D-A-3E-20-0-
+
+> 
+Successful AT command
+Found 0 tags
+Sending AT command...
+AT+CIPSHUT
+Found 0 tags
+Found 0 tags
+Received some AT response 11
+
+SHUT OK
+
+D-A-53-48-55-54-20-4F-4B-D-A-0-
+
+SHUT OK
+
+Successful AT command
+Found 0 tags
+Found 0 tags
+Found 0 tags
+Found 0 tags
+Found 0 tags
+Found 0 tags
